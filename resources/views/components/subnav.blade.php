@@ -6,9 +6,6 @@
     <div class="px-4">
         <div class="flex items-center justify-between">
             <div class="flex shrink-0">
-            <a class="mr-auto text-2xl font-bold text-black" href="/">
-        <img src="/assets/benc.png" class="w-10 h-10 flex-row inline-flex rounded text-black"> Ben C</img>
-    </a>
             </div>
             <div class="hidden md:flex md:items-center md:justify-center md:gap-5">
             <a href="/projects-current">
